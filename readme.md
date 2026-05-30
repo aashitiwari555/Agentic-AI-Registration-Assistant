@@ -306,16 +306,6 @@ Database handles storage
 
 ---
 
-✅ CRUD Functionality
-✅ Agentic AI Flow
-✅ PostgreSQL Integration
-✅ Validation & Error Handling
-✅ Conversational User Experience
-✅ Clean Architecture
-✅ Streamlit UI Integration
-
----
-
 # 👩‍💻 Author
 
 Aashi Tiwari
