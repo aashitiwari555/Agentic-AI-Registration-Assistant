@@ -203,52 +203,7 @@ CREATE TABLE registrations (
 
 ---
 
-# ⚙️ Installation & Setup
 
-## Step 1 — Clone/Open Project
-
-```bash
-cd chatbot_project
-```
-
----
-
-## Step 2 — Create Virtual Environment
-
-### Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### Mac/Linux
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
-
-## Step 3 — Install Dependencies
-
-```bash
-pip install streamlit
-pip install psycopg2-binary
-pip install python-dotenv
-pip install langchain
-pip install google-generativeai
-pip install langchain-google-genai
-```
-
-Or:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # 🔑 Environment Variables
 
@@ -351,8 +306,6 @@ Database handles storage
 
 ---
 
-# 🎯 Evaluation Criteria Covered
-
 ✅ CRUD Functionality
 ✅ Agentic AI Flow
 ✅ PostgreSQL Integration
@@ -360,27 +313,6 @@ Database handles storage
 ✅ Conversational User Experience
 ✅ Clean Architecture
 ✅ Streamlit UI Integration
-
----
-
-# 📸 Demonstration
-
-The final submission should include:
-
-* Screenshots of CRUD operations
-* Validation failures
-* Streamlit chatbot UI
-* PostgreSQL database records
-* Optional demo video
-
----
-
-# 📚 References
-
-* LangChain Documentation
-* Google Gemini API
-* PostgreSQL Documentation
-* Streamlit Documentation
 
 ---
 
