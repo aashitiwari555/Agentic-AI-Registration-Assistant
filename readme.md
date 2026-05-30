@@ -387,7 +387,6 @@ The final submission should include:
 # 👩‍💻 Author
 
 Aashi Tiwari
-AI Registration Assistant Project
 
 ```
 ```
